@@ -5,6 +5,6 @@ For the utility to work correctly, transaction names in the test must not contai
 
 mvn package - creates jar file
 
-java -jar <filename>.jar - runs analyser
+java -jar gatling-analyser.jar - runs analyser
   
 file config.properties must be in the same directory as jar file
